@@ -1,0 +1,74 @@
+
+{
+    "location": {
+      "name": "Cairo",
+      "region": "Al Qahirah",
+      "country": "Egypt",
+      "tz_id": "Africa/Cairo",
+      "localtime": "2023-08-04 18:54"
+    },
+    "current": {
+      "last_updated": "2023-08-04 18:45",
+      "temp_c": 34.0,
+      "condition": {
+        "text": "Sunny",
+        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      },
+      "wind_kph": 15.1,
+      "precip_in": 0.0, 
+      "humidity": 36,
+      "cloud": 0,
+      "feelslike_c": 32.0,
+      "gust_kph": 34.9
+
+    },
+    "forecast": {
+      "forecastday": [
+        {
+          "date": "2023-08-04",
+          "day": {
+            "maxtemp_c": 40.5,
+            "mintemp_c": 25.4,
+            "avgtemp_c": 31.8,
+            "maxwind_kph": 32.4,
+            "condition": {
+              "text": "Sunny",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+              "code": 1000
+            },
+            "uv": 8.0
+          },
+          "astro": {
+            "sunrise": "05:16 AM",
+            "sunset": "06:46 PM",
+            "moonrise": "08:59 PM",
+            "moonset": "08:02 AM",
+            "is_moon_up": 1,
+            "is_sun_up": 0
+          },
+          "hour": [
+            {
+              "time": "2023-08-04 00:00",
+              "temp_c": 28.2,
+              "is_day": 0,
+              "condition": {
+                "text": "Clear",
+                "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+                "code": 1000
+              },
+              "wind_kph": 16.6,
+              "humidity": 48,
+              "cloud": 0,
+              "feelslike_c": 28.8,
+              "windchill_c": 28.2,
+              "heatindex_c": 28.8,
+              "will_it_rain": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+
+
+  
